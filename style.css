@@ -12,6 +12,9 @@ ul,
 ol {
   list-style: none;
 }
+img {
+  max-width: 100%;
+}
 .logo {
   float: left;
 }
